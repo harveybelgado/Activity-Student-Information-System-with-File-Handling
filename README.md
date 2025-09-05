@@ -21,7 +21,21 @@ My primary struggle is data management and persistence, as it requires implement
 |09921|Harvey|18|90, 89,
 |09222|Jisa|18|99, 99, 99
 
+
+
+
+
+
+
+
 [SIS_FileHandling.py](https://github.com/user-attachments/files/22175083/SIS_FileHandling.py)
+
+
+
+
+
+
+
 import os
 
 SIS_students = {} # dictionary to store
